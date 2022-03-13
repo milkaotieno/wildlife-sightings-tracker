@@ -80,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.AnimalTest">
+  <component name="RunManager" selected="Gradle.AnimalTest.all_returnsAllInstancesOfAnimal_true">
     <configuration name="AnimalTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -183,9 +183,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.AnimalTest" />
-        <item itemvalue="Gradle.AnimalTest.find_returnsAnimalWithSameId_secondAnimal" />
         <item itemvalue="Gradle.AnimalTest.all_returnsAllInstancesOfAnimal_true" />
+        <item itemvalue="Gradle.AnimalTest.find_returnsAnimalWithSameId_secondAnimal" />
+        <item itemvalue="Gradle.AnimalTest" />
         <item itemvalue="Gradle.AnimalTest.save_assignsIdToObject" />
         <item itemvalue="Gradle.AnimalTest.getSightings_retrievesAllSightingsFromDatabase_sightingsList" />
       </list>
