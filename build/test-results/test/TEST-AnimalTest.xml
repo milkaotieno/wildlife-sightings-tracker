@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AnimalTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-03-13T17:34:07" hostname="moringa-ThinkPad-X250" time="0.241">
+<testsuite name="AnimalTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-03-13T21:57:55" hostname="moringa-ThinkPad-X250" time="0.25">
   <properties/>
-  <testcase name="all_returnsAllInstancesOfAnimal_true" classname="AnimalTest" time="0.241">
+  <testcase name="all_returnsAllInstancesOfAnimal_true" classname="AnimalTest" time="0.25">
     <failure message="java.lang.AssertionError" type="java.lang.AssertionError">java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:86)
 	at org.junit.Assert.assertTrue(Assert.java:41)
