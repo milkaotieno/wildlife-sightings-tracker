@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="552535db-cb24-4cb2-8ed9-85355fa4236a" name="Default Changelist" comment="" />
+    <list default="true" id="552535db-cb24-4cb2-8ed9-85355fa4236a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +14,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="172" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -81,7 +88,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.AnimalTest.all_returnsAllInstancesOfAnimal_true">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="wildlife-sightings-tracker.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AnimalTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -128,26 +142,6 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;AnimalTest.find_returnsAnimalWithSameId_secondAnimal&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="AnimalTest.getSightings_retrievesAllSightingsFromDatabase_sightingsList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;AnimalTest.getSightings_retrievesAllSightingsFromDatabase_sightingsList&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -231,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Gradle.AnimalTest.all_returnsAllInstancesOfAnimal_true" />
         <item itemvalue="Gradle.AnimalTest.find_returnsAnimalWithSameId_secondAnimal" />
         <item itemvalue="Gradle.AnimalTest" />
         <item itemvalue="Gradle.AnimalTest.save_assignsIdToObject" />
-        <item itemvalue="Gradle.AnimalTest.getSightings_retrievesAllSightingsFromDatabase_sightingsList" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647212099290</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="prevent  large files">
+      <created>1647212590875</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647212590875</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -399,7 +400,8 @@
     <MESSAGE value="modify dependencies" />
     <MESSAGE value="update tests" />
     <MESSAGE value="add read me" />
-    <option name="LAST_COMMIT_MESSAGE" value="add read me" />
+    <MESSAGE value="prevent  large files" />
+    <option name="LAST_COMMIT_MESSAGE" value="prevent  large files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -421,5 +423,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wildlife_sightings_tracker$App.ic" NAME="App Coverage Results" MODIFIED="1647212992136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
