@@ -2,7 +2,10 @@
     <div class="container-fluid">
         <div class="row container">
             <div class="col-md-6">
-                <p class="animals">All Animals</p>
+                <img src="/images/tiger.gif" height="450" width="600" alt="elephant">
+            </div>
+            <div class="col-md-6">
+                <p class="animals">Here are the Sightings Details</p>
                 {{#if animals}}
                     {{#each animals}}
                         <ul id="animals">
@@ -22,13 +25,11 @@
                 {{else}}
                     <p>No Animal</p>
                     <a href="/">
-                        <button class="btn success">Track a new animal</button>
+                        <button class="btn success">Click here to Track a new animal</button>
                     </a>
                 {{/if}}
             </div>
-            <div class="col-md-6">
-               <img src="/images/tiger.gif" height="450" width="600" alt="elephant">
-            </div>
+
         </div>
     </div>
 {{/partial}}
