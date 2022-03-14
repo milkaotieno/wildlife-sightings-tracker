@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>wildlife-service</groupId>
-    <artifactId>wildlife-service</artifactId>
-    <version>1.0</version>
+    <groupId>wildlifesightingstracker</groupId>
+    <artifactId>wildlife-sightings-tracker</artifactId>
+    <version>1.8</version>
 
     <dependencies>
         <!-- We need to list out ALL dependencies our project needs. If you have dependencies not listed here, but sure to add them -->

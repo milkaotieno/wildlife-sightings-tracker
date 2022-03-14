@@ -4,7 +4,6 @@ import spark.template.handlebars.HandlebarsTemplateEngine;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Scanner;
 
 import static spark.Spark.*;
 
@@ -19,6 +18,8 @@ public class App {
     public static void main(String[] args) {
         port(getHerokuAssignedPort());
         staticFileLocation("/public");
+
+
 //home page
         get("/", (request, response) -> {
             Map<String, Object> model = new HashMap<>();

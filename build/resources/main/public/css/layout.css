@@ -42,8 +42,7 @@ font-weight: bold;
 border-bottom: #23353C;
     list-style: none;
     color: #23353C;
-
-
+    font-weight: bold;
     border-bottom: solid #23353C 2px;
     padding-bottom: 20px;
 }
