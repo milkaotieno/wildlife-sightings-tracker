@@ -94,13 +94,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.AnimalTest.getSightings_retrievesAllSightingsFromDatabase_sightingsList">
-    <configuration name="AnimalTest.all_returnsAllInstancesOfAnimal_true" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.AnimalTest.find_returnsAnimalWithSameId_secondAnimal">
+    <configuration name="AnimalTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;AnimalTest.all_returnsAllInstancesOfAnimal_true&quot;" />
+        <option name="scriptParameters" value="--tests &quot;AnimalTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -115,12 +115,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="AnimalTest.equals_returnsTrueIfNameAndIdAreEqual" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AnimalTest.all_returnsAllInstancesOfAnimal_true" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;AnimalTest.equals_returnsTrueIfNameAndIdAreEqual&quot;" />
+        <option name="scriptParameters" value="--tests &quot;AnimalTest.all_returnsAllInstancesOfAnimal_true&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -244,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.AnimalTest.find_returnsAnimalWithSameId_secondAnimal" />
+        <item itemvalue="Gradle.AnimalTest" />
         <item itemvalue="Gradle.AnimalTest.getSightings_retrievesAllSightingsFromDatabase_sightingsList" />
         <item itemvalue="Gradle.AnimalTest.all_returnsAllInstancesOfAnimal_true" />
-        <item itemvalue="Gradle.AnimalTest.find_returnsAnimalWithSameId_secondAnimal" />
         <item itemvalue="Gradle.AnimalTest.save_insertsObjectIntoDatabase_Animal" />
-        <item itemvalue="Gradle.AnimalTest.equals_returnsTrueIfNameAndIdAreEqual" />
       </list>
     </recent_temporary>
   </component>
