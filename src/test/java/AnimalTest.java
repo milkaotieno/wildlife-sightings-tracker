@@ -46,14 +46,7 @@ public class AnimalTest {
         Animal savedAnimal = wild.all().get(0);
         assertTrue(savedAnimal.equals(wild));
     }
-    @Test
-    public void find_returnsAnimalWithSameId_secondAnimal() {
-        Animal wild = new Animal("Lucky");
-        wild.save();
-        Animal tame = new Animal("Becky");
-        tame.save();
-        //assertEquals(Animal.getId(), Animal.getId());
-    }
+
     @Test
     public void getSightings_retrievesAllSightingsFromDatabase_sightingsList() {
         Animal wild = new Animal("wild");
@@ -65,5 +58,14 @@ public class AnimalTest {
         Sighting[] sightings = {Tsavo, Amboseli};
         assertTrue(wild.getSigSightinghtings().containsAll(Arrays.asList(sightings)));
     }
+
+//    @Test
+//    public void find_returnsAnimalWithSameId_secondAnimal() {
+//        Animal wild = new Animal("Lucky");
+//        wild.save();
+//        Animal tame = new Animal("Becky");
+//        tame.save();
+//        assertEquals(Animal.getId(), Animal.getId());
+//    }
 
 }
