@@ -1,0 +1,22 @@
+#h-1{
+	text-align: center;
+}
+#header{
+	text-align: center;
+}
+body{
+	background-image:url("images/example.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h2{
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+	font-size: 70px;
+
+}
+
+#location{
+	text-decoration-color: red;
+}
