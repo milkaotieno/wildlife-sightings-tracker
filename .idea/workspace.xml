@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="552535db-cb24-4cb2-8ed9-85355fa4236a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/css/landing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/example.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/landing.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/animalTrack.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/animals.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/animals.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/animals.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/animals.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +19,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="148" />
+    <option name="myElementSize" value="147" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -410,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647214503245</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="landing page styled">
+      <created>1647216186317</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1647216186317</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,7 +442,8 @@
     <MESSAGE value="styling begins" />
     <MESSAGE value="form changes" />
     <MESSAGE value="remove unncecessary files" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove unncecessary files" />
+    <MESSAGE value="landing page styled" />
+    <option name="LAST_COMMIT_MESSAGE" value="landing page styled" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -468,6 +467,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wildlife_sightings_tracker$App.ic" NAME="App Coverage Results" MODIFIED="1647215719308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/wildlife_sightings_tracker$App.ic" NAME="App Coverage Results" MODIFIED="1647216208402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
