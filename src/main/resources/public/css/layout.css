@@ -2,10 +2,20 @@
     margin: 0;
     font-family: 'Roboto', "Helvetica Neue", sans-serif;
    background-color: forestgreen;
+   margin-top: 10px;
+   color:  !important;
 
  }
  .spacer {
   flex: 1;
+}
+.buttons1{
+font-size:20px;
+color: black;
+}
+.presentation{
+font-size:20px;
+color: black;
 }
 label{
 color: black !important;
@@ -33,6 +43,16 @@ color:white;
 .presentation{
 font-size:20px;
 color: black;
+}
+.buttons1{
+font-size:20px;
+color: black;
+}
+.nav nav-tabs {
+color:white;
+font-size: 24px;
+font-weight: bold;
+
 }
 .animals{
 color:white;
