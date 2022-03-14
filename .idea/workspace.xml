@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="552535db-cb24-4cb2-8ed9-85355fa4236a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DatabaseRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DatabaseRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -480,7 +480,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647293774776</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="add pom.xml file">
+      <created>1647299486556</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1647299486556</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add pom.xml file">
+      <created>1647299640436</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1647299640436</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
