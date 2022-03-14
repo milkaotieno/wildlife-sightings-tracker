@@ -8,6 +8,10 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/public/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/public/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/css/layout.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +23,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="147" />
+    <option name="myElementSize" value="146" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -408,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647216186317</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="styling continues">
+      <created>1647216565394</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1647216565394</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,7 +454,8 @@
     <MESSAGE value="form changes" />
     <MESSAGE value="remove unncecessary files" />
     <MESSAGE value="landing page styled" />
-    <option name="LAST_COMMIT_MESSAGE" value="landing page styled" />
+    <MESSAGE value="styling continues" />
+    <option name="LAST_COMMIT_MESSAGE" value="styling continues" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -467,6 +479,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wildlife_sightings_tracker$App.ic" NAME="App Coverage Results" MODIFIED="1647216208402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/wildlife_sightings_tracker$App.ic" NAME="App Coverage Results" MODIFIED="1647217755423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

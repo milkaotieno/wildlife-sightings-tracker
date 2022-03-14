@@ -1,30 +1,28 @@
-.topic{
-text-align: center;
-font-size: 24px;
-}
-
  *{
     margin: 0;
     font-family: 'Roboto', "Helvetica Neue", sans-serif;
-    background-color:rgb(210, 238, 229);
+   background-color: forestgreen;
 
  }
  .spacer {
   flex: 1;
 }
 label{
-color: orange !important;
+color: black !important;
 }
 h1 {
     font-size: 50px;
-    color: orange !important;
+    color: black !important;
     font-weight: bold;
 }
 h5,p {
-color: orange !important;
+color: black !important;
 }
 
-
+.topic{
+text-align: center;
+font-size: 24px;
+}
 .intro{
 color:white;
 font-size:18px;
@@ -37,12 +35,13 @@ font-size:20px;
 }
 .animals{
 color:white;
+font-size: 24px;
+font-weight: bold;
 }
 #animals{
 border-bottom: #23353C;
     list-style: none;
     color: #23353C;
-    font-size: 24px;
     font-weight: bold;
     border-bottom: solid #23353C 2px;
     padding-bottom: 20px;
