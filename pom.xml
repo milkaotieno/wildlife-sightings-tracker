@@ -6,7 +6,7 @@
 
     <groupId>wildlifesightingstracker</groupId>
     <artifactId>wildlife-sightings-tracker</artifactId>
-    <version>1.8</version>
+    <version>1.0-SNAPSHOT'</version>
 
     <dependencies>
         <!-- We need to list out ALL dependencies our project needs. If you have dependencies not listed here, but sure to add them -->
@@ -77,13 +77,13 @@
             <plugin>
                 <groupId>com.heroku.sdk</groupId>
                 <artifactId>heroku-maven-plugin</artifactId>
-                <version>2.0.3</version>
+                <version>2.0.16</version>
                 <configuration>
                     <jdkVersion>1.8</jdkVersion>
                     <!-- Change this to YOUR application name! -->
-                    <appName>wildlife-service</appName>
+                    <appName>wildlife-sightings-tracker</appName>
                     <processTypes>
-                        <web>java -jar target/wildlife-service-1.0-jar-with-dependencies.jar</web>
+                        <web>java -jar target/wildlife-sightings-tracker-1.0-jar-with-dependencies.jar</web>
                     </processTypes>
                 </configuration>
             </plugin>
